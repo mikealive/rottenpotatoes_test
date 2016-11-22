@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 DEPRECATED - PLEASE PREFER https://github.com/saasbook/hw-acceptance-unit-test-cycle
 =====
 
@@ -101,3 +102,7 @@ the [ESaaS screencast](https://www.youtube.com/watch?v=bT8zRRRmbUs) for step-by-
 + The URI of your deployed app on Heroku that passes all the scenarios (later in the semester, 
 we'll show how to run Cucumber scenarios directly against your deployed app, not just your local copy)
 + Any files you modified (i.e. app/, config/routes.rb, db/migrate/, etc.)
+=======
+# rottenpotatoes_test
+Learn to do TDD/BDD
+>>>>>>> fdc8e1c1548af014b9baae4d32b16fab730def48
